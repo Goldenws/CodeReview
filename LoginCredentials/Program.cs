@@ -15,28 +15,29 @@ namespace LoginCredentials
              * If the login or password are incorrect dispay 'try again'
              
              */
-            Login;
-            Password;
-            Console.WriteLine("Login: ");
+           string Login;
+            string Password;
+            Console.WriteLine("Welcome Tovarish");
+            Console.WriteLine("Enter your Login ");
             Login = Console.ReadLine();
-            Console.WriteLine("Password: ");
+            Console.WriteLine(" Enter your Password ");
             Password = Console.ReadLine();
 
-            if ((Login == "admin") && (Password == "pass1234"))
+            if ((Login == "Tovarish") && (Password == "Stalin-Forever"))
             {
-                Console.WriteLine("The login is incorrect.");
+                Console.WriteLine("Come in, my fellow communist.");
             }
-            else if ((Login == "admin") && (Password != "pass1234"))
+            else if ((Login == "Tovarish") && (Password != "Stalin forever"))
             {
-                Console.WriteLine("The password is incorrect");
+                Console.WriteLine("This is wrong Password,Good try  capitalist intruder");
             }
-            else if ((Login != "admin") && (Password == "pass1234"))
+            else if ((Login != "Tovarish") && (Password == "Stalin-Forver"))
             {
-                Console.WriteLine("Welcome.");
+                Console.WriteLine("Alright come with us we have some questions.");
             }
             else
             {
-                Console.WriteLine("Success!");
+                Console.WriteLine("Get out of our border");
             }
         }
     }

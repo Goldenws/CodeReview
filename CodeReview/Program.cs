@@ -9,8 +9,10 @@ namespace CodeReview
             /*The program asks the user's name and greets the user by their name
              */
             Console.WriteLine("What's your name?");
-            name = Console.WriteLine();
-            Console.ReadLine($"Hello, (name)");
+            string name;
+
+            name = Console.ReadLine();
+            Console.WriteLine($"Hello,{name}");
         }
     }
 }

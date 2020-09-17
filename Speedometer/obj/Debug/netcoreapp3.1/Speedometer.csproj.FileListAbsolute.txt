@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\Speedometer\bin\Debug\netcoreapp3.1\Speedometer.exe
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\Speedometer\bin\Debug\netcoreapp3.1\Speedometer.deps.json
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\Speedometer\bin\Debug\netcoreapp3.1\Speedometer.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\Speedometer\bin\Debug\netcoreapp3.1\Speedometer.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\Speedometer\bin\Debug\netcoreapp3.1\Speedometer.dll
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\Speedometer\bin\Debug\netcoreapp3.1\Speedometer.pdb
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\Speedometer\obj\Debug\netcoreapp3.1\Speedometer.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\Speedometer\obj\Debug\netcoreapp3.1\Speedometer.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\Speedometer\obj\Debug\netcoreapp3.1\Speedometer.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\Speedometer\obj\Debug\netcoreapp3.1\Speedometer.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\Speedometer\obj\Debug\netcoreapp3.1\Speedometer.dll
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\Speedometer\obj\Debug\netcoreapp3.1\Speedometer.pdb
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\Speedometer\obj\Debug\netcoreapp3.1\Speedometer.genruntimeconfig.cache

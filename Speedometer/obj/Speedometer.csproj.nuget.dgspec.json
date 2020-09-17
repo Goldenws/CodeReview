@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\Speedometer\\Speedometer.csproj": {}
+    "C:\\Users\\Roland Strod\\source\\repos\\LOGITpe20-CodeReview\\Speedometer\\Speedometer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\Speedometer\\Speedometer.csproj": {
+    "C:\\Users\\Roland Strod\\source\\repos\\LOGITpe20-CodeReview\\Speedometer\\Speedometer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\Speedometer\\Speedometer.csproj",
+        "projectUniqueName": "C:\\Users\\Roland Strod\\source\\repos\\LOGITpe20-CodeReview\\Speedometer\\Speedometer.csproj",
         "projectName": "Speedometer",
-        "projectPath": "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\Speedometer\\Speedometer.csproj",
-        "packagesPath": "C:\\Users\\admin-julia.voronets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\Speedometer\\obj\\",
+        "projectPath": "C:\\Users\\Roland Strod\\source\\repos\\LOGITpe20-CodeReview\\Speedometer\\Speedometer.csproj",
+        "packagesPath": "C:\\Users\\Roland Strod\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roland Strod\\source\\repos\\LOGITpe20-CodeReview\\Speedometer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\admin-julia.voronets\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Roland Strod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\ToLower\bin\Debug\netcoreapp3.1\ToLower.exe
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\ToLower\bin\Debug\netcoreapp3.1\ToLower.deps.json
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\ToLower\bin\Debug\netcoreapp3.1\ToLower.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\ToLower\bin\Debug\netcoreapp3.1\ToLower.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\ToLower\bin\Debug\netcoreapp3.1\ToLower.dll
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\ToLower\bin\Debug\netcoreapp3.1\ToLower.pdb
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\ToLower\obj\Debug\netcoreapp3.1\ToLower.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\ToLower\obj\Debug\netcoreapp3.1\ToLower.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\ToLower\obj\Debug\netcoreapp3.1\ToLower.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\ToLower\obj\Debug\netcoreapp3.1\ToLower.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\ToLower\obj\Debug\netcoreapp3.1\ToLower.dll
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\ToLower\obj\Debug\netcoreapp3.1\ToLower.pdb
+C:\Users\Roland Strod\source\repos\LOGITpe20-CodeReview\ToLower\obj\Debug\netcoreapp3.1\ToLower.genruntimeconfig.cache
